@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MenuPlanner_Group5</string>
+    <string name="Title">Menu Planner</string>
+    <string name="Weclome">Welcome to Menu Planner</string>
+    <string name="Submit">Submit</string>
+    <string name="Register">Register</string>
+    <string name="Recipe">Recipe</string>
+    <string name="Event">Event</string>
+    <string name="list">List</string>
+    <string name="Password">Password</string>
+    <string name="Email">Email</string>
+    <string name="User">User Name</string>
+    <string name="Sel_Event">Select Event</string>
+    <string name="No_of_Guest">No. of Guests</string>
+    <string name="Show">Show</string>
+    <string name="Update">Update</string>
+    <string name="Delete">Delete</string>
+    <string name="Add_Rec">Add Recipe to Menu</string>
+    <string name="Show_serv">Show Serving</string>
+    <string name="Del_Rec">Del Recipe from Menu</string>
+    <string name="Home_Page">Home Page</string>
+    <string name="List_Page">List Page</string>
+    <string name="Recipe_Page">Recipe Page</string>
+    <string name="Event_Page">Event Page</string>
+    <string name="Choose_Date">Choose Date</string>
+    <string name="Ing_recipe">Ingredient for Recipe</string>
+    <string name="Add_Ing">Add Ing. to Rec.</string>
+    <string name="Update_Ing">Update Ing. of Rec.</string>
+    <string name="Del_Ing">Del Ing. from Rec.</string>
+    <string name="Logout">Log Out</string>
+
+
+
+
+</resources>

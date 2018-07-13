@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Isha\\AndroidStudioProjects\\MenuPlanner_Group5\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Isha\\.android\\build-cache\\bf72787e4691da7a37960e478fe039aca2b21e97\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Isha\\AndroidStudioProjects\\MenuPlanner_Group5\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Isha\\.android\\build-cache\\bf72787e4691da7a37960e478fe039aca2b21e97\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Isha\\AndroidStudioProjects\\MenuPlanner_Group5\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Isha\\.android\\build-cache\\bf72787e4691da7a37960e478fe039aca2b21e97\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Isha\\AndroidStudioProjects\\MenuPlanner_Group5\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Isha\\.android\\build-cache\\bf72787e4691da7a37960e478fe039aca2b21e97\\output\\res\\layout-v21\\notification_action.xml"
+    }
+]
